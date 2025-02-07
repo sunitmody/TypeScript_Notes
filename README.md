@@ -22,4 +22,6 @@
        * If using arrow function to define component, you can also use the FC type. 
     *   State
        * 
+    *   Functions defined in your component
+       * 
 
